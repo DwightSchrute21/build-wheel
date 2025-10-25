@@ -1,0 +1,11 @@
+pyproject.toml
+setup.py
+libc/__init__.c
+libc/__init__.py
+libc/main.c
+libc/main.py
+libc.egg-info/PKG-INFO
+libc.egg-info/SOURCES.txt
+libc.egg-info/dependency_links.txt
+libc.egg-info/not-zip-safe
+libc.egg-info/top_level.txt

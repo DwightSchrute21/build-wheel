@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: libc
+Version: 0.1.0
+Summary: Compiled-only Python extension
+Author: Alexandre Picquot
+Requires-Python: >=3.9
