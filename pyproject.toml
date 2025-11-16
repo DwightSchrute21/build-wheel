@@ -1,20 +1,4 @@
 [build-system]
 requires = ["setuptools>=71", "wheel", "Cython"]
 build-backend = "setuptools.build_meta"
-# build-backend = "build_meta"
 
-[project]
-name = "libc"
-version = "0.1.0"
-description = "Compiled-only Python extension"
-authors = [{name = "DwightSchrute21", email = "dwighthchrute21000@gmail.com"  } ]
-requires-python = ">=3.9"
-
-[tool.setuptools]
-packages = ["libc"]
-
-[tool.setuptools.exclude-package-data]
-libc =  ["*.py", "*.pyx", "*.c"]
-
-# [tool.setuptools.package-data]
-# "" = ["build_meta.py"]

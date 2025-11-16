@@ -8,4 +8,5 @@ libc.egg-info/PKG-INFO
 libc.egg-info/SOURCES.txt
 libc.egg-info/dependency_links.txt
 libc.egg-info/not-zip-safe
+libc.egg-info/requires.txt
 libc.egg-info/top_level.txt
