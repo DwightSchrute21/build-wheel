@@ -1,1 +1,1 @@
-this is a text file that sholud be imported in the wheel
+this is a text file that should be imported in the wheel
